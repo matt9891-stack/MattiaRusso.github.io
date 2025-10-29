@@ -14,3 +14,23 @@ Over the next two years, my passion for technology and data-driven decision-maki
 Today, with a solid foundation in data analytics and hands-on experience in retail management, I’m eager to embark on my career as a Data Analyst. I’m passionate about leveraging data to drive strategic decisions, optimise performance, and uncover growth opportunities.
 
 In addition to my technical skills, I bring a diverse set of transferable competencies from my background in management and retail—such as leadership, communication, and problem-solving—that I continue to apply and refine in every project I undertake.
+
+# Education
+
+Bachelor's degree in EHS at the University of Parma, Italy
+
+Studying for an MSc in Data Science at the University of Essex
+
+# Language and tools
+
+Python
+
+Numpy
+
+Pandas
+
+R
+
+PostgreSQL
+
+Tableau
