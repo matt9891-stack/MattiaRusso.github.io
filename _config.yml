@@ -43,9 +43,8 @@ author: matt9891-stack
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to the academic e-portfolio of Mattia Russo, showcasing projects, research, and coursework developed during the MSc in Data Science at the University of Essex. 
+  This portfolio highlights hands-on experience in machine learning, data analytics, and statistical modeling, reflecting a strong passion for turning data into actionable insights.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
